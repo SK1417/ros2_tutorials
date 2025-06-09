@@ -1,3 +1,3 @@
 # ros2_tutorials
 
-Code for the tutorials on ROS2 Jazzy documentation
+Code from the tutorials on ROS2 Jazzy documentation
